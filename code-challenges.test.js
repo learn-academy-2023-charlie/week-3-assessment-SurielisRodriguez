@@ -152,6 +152,8 @@ const accountTransactions3 = []
 
 
 
+
+
 const accSum = (arr) => {
   let firstVal = arr[0];
   let newArray = []
